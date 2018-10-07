@@ -4,7 +4,7 @@
 This is the Dog Party Comp provided by client.
 
 ![Dog Party deliverable](images/Dog-Party-DylanHofmann.png)
-Here is the version of Dog pary made by Dylan Hofmann.
+Here is the version of Dog party made by Dylan Hofmann.
 ## Synopsis
 This project was working off of the Dog Party "A Site About Some Dogs" comp.  The idea of the project was to provide an HTML website, styled by CSS to mimic the comp image provided. 
 
