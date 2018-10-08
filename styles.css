@@ -35,6 +35,9 @@ button {
 p{
   padding:7px;
   text-align: center;
+  max-width: 300px;
+  max-height: 150px;
+  overflow: scroll;
 }
 
 /* nav bar style*/
@@ -90,7 +93,7 @@ header{
 }
 .column p {
   height: 100%;
-  text-align: center;
+/*   text-align: center; */
 }
 .bodyImage {
   height: 150px;
