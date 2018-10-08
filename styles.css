@@ -90,6 +90,7 @@ header{
 }
 .column p {
   height: 100%;
+  text-align: center;
 }
 .bodyImage {
   height: 150px;
