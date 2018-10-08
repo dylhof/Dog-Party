@@ -34,6 +34,7 @@ button {
 
 p{
   padding:7px;
+  text-align: center;
 }
 
 /* nav bar style*/
@@ -84,7 +85,6 @@ header{
 }
 .column{
   width: 33%;
-  /*float:left;*/
   margin: auto;
   display: inline-block;
 }
