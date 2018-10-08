@@ -120,6 +120,11 @@ header{
   text-align: center;
 }
 
+@media only screen and (max-width: 620px){
+  .column {
+    display: inline;
+  }
+}
 
 
 
